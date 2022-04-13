@@ -1,6 +1,6 @@
 Validation Assignment
  
-<!-- Library Used  -->
+<-------Library Used ------->
  
 "formik": "^2.2.9"
 "yup": "^0.32.11",
@@ -9,7 +9,7 @@ Validation Assignment
 for Creating form and adding validations
  "Yup-Phone" for phone number validation check to yup validator using google-libphonenumber .
 
-<!-- Validation Checks -->
+<------- Validation Checks ------->
 
 First Name
  * Cannot be Empty 
