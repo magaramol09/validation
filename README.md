@@ -14,14 +14,13 @@ for Creating form and adding validations
 First Name
  * Cannot be Empty 
  * Required Minimum Lenght is 3    
- * Required Maximum Lenght is 12   
+ *  Maximum Lenght is 12   
 
 Last Name
  * Cannot be Empty
  * Required Minimum Lenght is 3    
- * Required Maximum Lenght is 12   
+ *  Maximum Lenght is 12   
 
- 
 
 Contact No
  * Default Add +91
@@ -33,7 +32,7 @@ Contact No
 Password
  * Cannot be Empty   
  * Required Minimum Lenght is 8    
- * Required Maximum Lenght is 10    
+ *  Maximum Lenght is 10    
 
 Confirm Password
  * Cannot be Empty   
